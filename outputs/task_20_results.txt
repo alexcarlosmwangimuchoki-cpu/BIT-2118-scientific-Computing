@@ -1,0 +1,4 @@
+TASK 20: MONTE CARLO SIMULATION (BUDGET OVERRUN RISK)
+Estimated probability of budget overrun: 23.3420%
+Overrun cases: 23342 out of 100000
+Mean total cost: $170,019.16 | Std dev: $13,779.85

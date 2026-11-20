@@ -1,0 +1,6 @@
+TASK 02: MATHEMATICAL FUNCTIONS AND VECTORIZATION
+First 5 squared decimal returns: [1.7280e-05 1.4352e-04 9.0350e-05 1.3893e-04 5.2498e-04]
+Python loop time (N=1,000,000): 0.384481 s
+NumPy vectorized time (N=1,000,000): 0.004828 s
+Approximate speed-up: 79.6x
+Mean squared latency (s^2): 2.124259e-02

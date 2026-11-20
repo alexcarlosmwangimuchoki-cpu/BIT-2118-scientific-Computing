@@ -1,0 +1,7 @@
+TASK 10: BISECTION AND FIXED-POINT METHODS
+Bisection T*: 27.525211 C (38 iters)
+Fixed-Point T*: 27.525211 C (13 iters)
+Modified (amp=20) Bisection T*: 29.561521 C | Fixed-Point T*: 29.561521 C (17 iters)
+
+REAL-WORLD CASE: CSTR STEADY-STATE CONCENTRATION
+Steady-state concentration C*: 35.110670 mol/m^3

@@ -1,0 +1,8 @@
+TASK 11: NEWTON-RAPHSON AND SECANT METHODS
+IRR (Newton-Raphson): 11.542461% (4 iters) | NPV check: 0.00000000
+IRR (Secant):         11.542461% (7 iters)
+Modified outlay (-$11,500) IRR: 5.166140%
+
+REAL-WORLD CASE: LOAN EFFECTIVE INTEREST RATE
+Effective Rate (Newton): 8.393774% (4 iters)
+Effective Rate (Secant): 8.393774% (6 iters)

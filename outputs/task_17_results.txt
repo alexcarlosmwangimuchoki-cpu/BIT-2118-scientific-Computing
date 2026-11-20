@@ -1,0 +1,4 @@
+TASK 17: EULER'S METHOD FOR NEWTON'S LAW OF COOLING
+dt=10.0s -> Final T(100s)=20.0684 C | Max Abs Error=8.2516 C
+dt= 2.0s -> Final T(100s)=20.3608 C | Max Abs Error=1.3441 C
+dt= 0.5s -> Final T(100s)=20.4426 C | Max Abs Error=0.3253 C

@@ -1,0 +1,10 @@
+TASK 07: LU DECOMPOSITION (PA = LU)
+Set 1 solution: [2.6596 4.3617 4.7872]
+Set 2 solution: [2.8511 4.5957 4.5319]
+Set 3 solution: [2.2766 4.8936 5.2979]
+Modified A[0,1]=3.0 (Set 1): [0.8491 3.8679 4.6226]
+
+REAL-WORLD CASE: STRUCTURAL TRUSS DISPLACEMENTS (mm)
+Hour 1 displacements: [4.8837 7.2093 4.0698]
+Hour 2 displacements: [5.907  8.7674 5.2558]
+Hour 3 displacements: [5.2558 9.1395 6.0465]

@@ -1,0 +1,7 @@
+TASK 08: ITERATIVE METHODS (JACOBI & GAUSS-SEIDEL)
+Jacobi temps (150 iters): [86.666667 73.333333 60.       46.666667 33.333333]
+Gauss-Seidel temps (75 iters): [86.666667 73.333333 60.       46.666667 33.333333]
+Direct solve check: [86.666667 73.333333 60.       46.666667 33.333333]
+
+REAL-WORLD CASE: GREENHOUSE WALL (35 C -> 5 C, tol=1e-6)
+Gauss-Seidel temps (55 iters): [30. 25. 20. 15. 10.]

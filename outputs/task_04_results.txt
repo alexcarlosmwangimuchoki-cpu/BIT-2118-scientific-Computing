@@ -1,0 +1,19 @@
+TASK 04: MATRIX ALGEBRA AND MATRIX OPERATIONS
+45-deg + Scale Determinant: 3.0000
+Transformed points (45 deg):
+[[ 0.      0.    ]
+ [ 1.4142  1.4142]
+ [ 0.3536  2.4749]
+ [-1.0607  1.0607]]
+90-deg + Scale Determinant: 3.0000
+Transformed points (90 deg):
+[[ 0.   0. ]
+ [ 0.   2. ]
+ [-1.5  2. ]
+ [-1.5  0. ]]
+
+REAL-WORLD CASE: ROBOT MAP TRANSFORMATION (30 deg, scale 1.2)
+New map coordinates:
+[[1.4785 2.2392]
+ [3.5569 3.4392]
+ [0.2785 4.3177]]

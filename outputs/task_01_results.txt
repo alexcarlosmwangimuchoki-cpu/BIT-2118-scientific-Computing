@@ -1,0 +1,13 @@
+TASK 01: NUMPY ARRAYS AND NUMERICAL COMPUTATION
+Mean Temperature (C): 23.12 C (73.62 F)
+Min Temperature (C):  17.50 C (63.50 F)
+Max Temperature (C):  29.40 C (84.92 F)
+First 6 Fahrenheit values: [65.3  64.4  64.04 63.5  64.22 66.2 ]
+
+SENSITIVITY ANALYSIS (Index 12: 29.4 C -> 35.0 C)
+Modified Mean (C): 23.35 C | Modified Max (C): 35.00 C (95.00 F)
+
+REAL-WORLD CASE: SMART GRID ENERGY & EMISSIONS
+Mean Hourly Energy: 3.08 kWh | Min: 0.80 kWh | Max: 5.20 kWh
+Total Daily Energy: 73.90 kWh | Total CO2: 33.25 kg
+First 6 CO2 readings (kg): [0.54  0.45  0.405 0.36  0.405 0.675]

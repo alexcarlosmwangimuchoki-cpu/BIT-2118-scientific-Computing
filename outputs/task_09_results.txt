@@ -1,0 +1,7 @@
+TASK 09: EIGENVALUES AND EIGENVECTORS (CENTRALITY)
+Dominant eigenvalue: 2.561553 | Verification error: 2.69e-15
+Scores (Original): A=0.2192, B=0.2808, C=0.2808, D=0.2192
+
+PARAMETER CHANGE: REMOVE B-D EDGE
+Modified dominant eigenvalue: 2.170086
+Scores (Modified): A=0.2696, B=0.2696, C=0.3154, D=0.1454

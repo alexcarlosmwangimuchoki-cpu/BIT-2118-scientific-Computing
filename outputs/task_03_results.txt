@@ -1,0 +1,11 @@
+TASK 03: FLOATING-POINT ARITHMETIC AND NUMERICAL ERRORS
+0.1 + 0.2 = 0.30000000000000004
+Exact equality (0.1 + 0.2 == 0.3): False
+np.isclose(0.1 + 0.2, 0.3): True
+sqrt(2) = 1.4142135624
+Approx 1.414 -> Abs Error: 0.00021356, Rel Error: 0.00015101 (0.0151%)
+Approx 1.4142 -> Abs Error: 0.00001356, Rel Error: 0.00000959 (0.0010%)
+
+REAL-WORLD CASE: SHOP RECEIPT (DECIMAL)
+Qty=3 -> Subtotal: KSh 376.50, Amount Due: KSh 351.50
+Qty=4 -> Subtotal: KSh 502.00, Amount Due: KSh 477.00

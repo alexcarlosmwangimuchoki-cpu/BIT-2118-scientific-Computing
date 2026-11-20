@@ -1,0 +1,4 @@
+TASK 18: SCIPY ODE INTEGRATION (RC CIRCUIT CHARGING)
+C=1.0 uF (tau=1.0 ms) -> V_C(20ms)=4.9985 V
+C=2.2 uF (tau=2.2 ms) -> V_C(20ms)=4.9992 V
+C=4.7 uF (tau=4.7 ms) -> V_C(20ms)=4.9285 V

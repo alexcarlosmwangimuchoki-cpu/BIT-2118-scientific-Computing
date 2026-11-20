@@ -1,0 +1,4 @@
+TASK 16: NUMERICAL INTEGRATION
+Original Energy -> Trapezoidal: 15.700 kWh | Simpson: 15.800 kWh
+Modified (6h -> 2.2 kW) -> Trapezoidal: 16.500 kWh | Simpson: 16.867 kWh
+Daily Water Volume -> Trapezoidal: 3624.0 L | Simpson: 3648.0 L

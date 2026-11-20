@@ -1,0 +1,7 @@
+TASK 12: POLYNOMIAL AND NONLINEAR EQUATION SOLVING
+Guess [1, 1] -> Intersection: [1.51749  1.302776] | Success: True
+Guess [-1, 1] -> Intersection: [-1.51749   1.302776] | Success: True
+
+REAL-WORLD CASE: VEHICLE PATH & CIRCULAR BOUNDARY (r=3)
+Guess [1.5, 1.5] -> Crossing: [1.836377 2.372281] | Success: True
+Guess [-1.5, 1.5] -> Crossing: [-1.836377  2.372281] | Success: True

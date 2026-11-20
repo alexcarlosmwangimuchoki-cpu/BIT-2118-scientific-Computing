@@ -1,0 +1,3 @@
+TASK 19: OPTIMIZATION (LOGISTICS FLEET ALLOCATION)
+Continuous optimum -> Type A: 0.000, Type B: 3.750, Cost: $937.50
+Integer optimum -> Type A: 0, Type B: 4, Capacity: 1600 boxes, Cost: $1000

@@ -1,0 +1,7 @@
+TASK 06: LINEAR SYSTEMS (Ax = b)
+Original solution (Type A, Type B): [3. 4.] | Residual norm: 0.00e+00
+Modified b=[20, 96] solution: [1.5 7. ] | Residual norm: 0.00e+00
+
+REAL-WORLD CASE: 3-PLANT GRID DISPATCH
+Plant A: 150.00, Plant B: 160.00, Plant C: 330.00
+Verification residual norm: 0.00e+00

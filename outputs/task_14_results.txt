@@ -1,0 +1,7 @@
+TASK 14: CURVE FITTING AND APPROXIMATION
+Server fit: y = 0.00216667x^2 + -0.134524x + 85.0000 | RMSE = 1.55 ms
+Predicted response at 400 users: 377.86 ms | 450 users: 463.21 ms
+
+REAL-WORLD CASE: SUPERMARKET QUEUE WAITING TIME
+Queue fit: y = 0.01940476x^2 + -0.341667x + 13.7143 | RMSE = 0.18 s
+Predicted wait at 80 customers: 110.57 s

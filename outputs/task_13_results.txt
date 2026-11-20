@@ -1,0 +1,7 @@
+TASK 13: NUMERICAL INTERPOLATION
+At 10:30 (10.5): Linear = 23.250 C | Cubic = 23.362 C
+At 10:15 (10.25): Linear = 22.875 C | Cubic = 22.969 C
+Change (10:30 -> 10:15): Linear -0.375 C | Cubic -0.392 C
+
+REAL-WORLD CASE: GREENHOUSE SENSOR (10:30)
+Linear = 23.850 C | Cubic = 23.819 C
